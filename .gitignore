@@ -1,0 +1,10 @@
+WoosterCorpus
+.idea/*
+*~
+.DS_Store
+*.pyc
+*.o
+results
+edited corpus
+results.odt
+edited_corpus.odt
