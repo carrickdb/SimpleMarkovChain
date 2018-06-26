@@ -1,0 +1,1 @@
+A modification of http://code.activestate.com/recipes/194364-the-markov-chain-algorithm/?in=lang-python
